@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">🌳 Quadtree Visualizer</h1>
+<h1 align="center">🌳 Quadtree Visualizer 🌳</h1>
 
 <p align="center">
   <img src="QuadTree Visual Implementation.gif" alt="Quadtree Demo" />
