@@ -1,14 +1,20 @@
-<h1 align="center" style="font-size: 50px;">Hi there 👋</h1>
 <h1 align="center" style="font-size: 50px;">Alexander Mortillite</h1>
 
-<h4 align="center"> Full Stack Dev/Project Lead </h4>
 
+<h1 align="center">🛰️ Barnes-Hut Simulation  ☄️</h1>
+
+
+<p align="center">
+  <img src="Binary_Stars.gif" alt="Barnes-Hut .gif" />
+</p>
 
 <h1 align="center">🌳 Quadtree Visualizer 🌳</h1>
-
 <p align="center">
   <img src="QuadTree Visual Implementation.gif" alt="Quadtree Demo" />
 </p>
+
+
+
 <h2 align="center"> Please reach out to me at <strong>amortillite@gmail.com</strong> with any questions</h2>
 
 <h3 align="center">
